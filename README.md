@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, 你好, こんにちは, Xin chào, 안녕하세요, Bonjour👋</h2>
-<h4>The name's Eddy ikhlef, aka Moka, Mokachu, Mokapus, etc. 
+<h4>The name's Eddy Ikhlef, aka Moka, Mokachu, Mokapus, etc. 
 I am currently a student at the sciences university of Luminy. My major is computer science and I will start my master degree in 2021/2022 in Software devellopment engineering.<h4>
 <hr>
 - 🔭 I’m currently working on <a href="https://github.com/m-o-k-a/Bibliography-Tools">Bibliography Tools</a> and on some features from this project to add on my internship monitor's website + update some style<br>
