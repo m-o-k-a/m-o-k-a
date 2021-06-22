@@ -5,7 +5,7 @@ I am currently a student at the sciences university of Luminy. My major is compu
 - 🔭 I’m currently working on <a href="https://github.com/m-o-k-a/Bibliography-Tools">Bibliography Tools</a> and on some features from this project to add on my internship monitor's website + update some style<br>
 - 🌱 I’m currently learning Computer Science at Aix-Marseille Universities, as well as general knowledge in computer science, flutter+dart features<br>
 - ⚡ Fun fact: I am referred as the front-end guy, since few student likes it at university and I manage it kinda well. I am also a huge fan of Asia, especially the south-east and east asia. Since young I was attracted by their cultures, traditions, etc. (I am currently learning in self-taught chinese (mandarin), estimated level: HSK2/3 (HSK1/2 version 3.0); and some basic knowledge in vietnamese, japanese and korean)<br>
-  - 📫 How to reach me: <a href="eddy-ikhlef.glitch.me">Personnal Website</a>, <a href="https://www.linkedin.com/in/eddy-ikhlef/">Linkedin</a> or email: eddy[dot]khlef[at]protonmail[dot]com or eddy[dot]galdon[at]gmail[dot]com<br>
+  - 📫 How to reach me: <a href="eddy-ikhlef.glitch.me">Personnal Website</a>, <a href="https://www.linkedin.com/in/eddy-ikhlef/">Linkedin</a> or email: eddy[dot]ikhlef[at]protonmail[dot]com or eddy[dot]galdon[at]gmail[dot]com<br>
   - 🤩 Hype of the moment: <a href="https://play.date">PlayDate❤</a> I am in love with this tiny piece of hardware, allow to code in C and LUA will bring a vibe of gameboy and nintendo ds to it!
   
 <h2>Skills</h2>
